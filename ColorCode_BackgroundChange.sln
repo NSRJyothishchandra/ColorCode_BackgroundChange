@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorCode_BackgroundChange", "ColorCode_BackgroundChange.csproj", "{D61EE4D2-4026-4E58-9CA7-A75D504B05AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61EE4D2-4026-4E58-9CA7-A75D504B05AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61EE4D2-4026-4E58-9CA7-A75D504B05AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61EE4D2-4026-4E58-9CA7-A75D504B05AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61EE4D2-4026-4E58-9CA7-A75D504B05AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725CAE22-BBF9-4543-897A-DA4A402296DF}
+	EndGlobalSection
+EndGlobal
